@@ -1,0 +1,39 @@
+python runme.py output in project c:
+
+    Traceback (most recent call last):
+      File "/projects/exercise_03_pip/project_c/runme.py", line 1, in <module>
+          import numpy as np
+    ModuleNotFoundError: No module named 'numpy'
+
+python runme.py output in project d:
+
+    Traceback (most recent call last):
+      File "/projects/exercise_03_pip/project_d/runme.py", line 1, in <module>
+          import numpy as np
+      ModuleNotFoundError: No module named 'numpy'
+
+pip list from project c:
+
+    Package    Version
+    ---------- -------
+    numpy      1.24.3
+    pip        23.1.2
+    setuptools 65.5.0
+
+
+pip list from project d:
+
+    Package    Version
+    ---------- -------
+    pip        22.3.1
+    setuptools 65.5.0
+
+runme.py output in project D following numpy installation:
+
+    [[ 0  1  2  3  4]
+     [ 5  6  7  8  9]
+     [10 11 12 13 14]]
+
+
+
+
