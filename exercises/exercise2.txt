@@ -1,0 +1,27 @@
+python --version output after creating the virtual env:
+
+  pyenv: python: command not found
+  pyenv: version `/pyenv_versions//3.10.9/envs/project_a_env' not installed
+  The `python' command exists in these Python versions:
+    3.6.15
+    3.10.9
+    project_a_env
+
+python --version output after setting the environment for project A:
+
+  Python 3.10.9
+
+python -- version output after moving up a directory:
+
+  pyenv: python: command not found
+  pyenv: version `/pyenv_versions//3.10.9/envs/project_a_env' not installed
+
+  The `python' command exists in these Python versions:
+    3.6.15
+    3.10.9
+    project_a_env
+
+
+-----------------
+
+Python versions are 3.10.9 and 3.6.15 in project directories A and B respectively.
