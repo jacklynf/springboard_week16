@@ -1,0 +1,10 @@
+This was fun and relatively easy to implement. I am really glad we covered this in our
+Sunday session last week as that made it MUCH easier to understand. The documentation
+is helpful but it has a lot going on. Having the practice last Sunday made this exercise
+much more manageable.
+
+First, I implemented the single test function by making it fail then getting it to pass.
+Then, I implemented the fixture, golden data, and adjusted the test function 
+accordingly. It passed initially, so I messed with the data to create some failures
+just to make sure everything was working as intended. Once I confirmed that was the case,
+I corrected the bad data and added a few more tests.
