@@ -1,0 +1,4 @@
+1. If you are importing the threading library, you cannot name your program threading.py. Changing the name of the file fixes this issue.
+
+2. I didn't notice any significant time differences between my program and the one in the video. Rerunning the program showed that the milliseconds
+would be off occasionally, but sometimes this resulted in my programming finishing .01 seconds faster.     

@@ -1,3 +1,0 @@
-1. When using the threading library, you cannot also name your file threading.py. Changing the name of the file will fix the issue.
-
-2. 
